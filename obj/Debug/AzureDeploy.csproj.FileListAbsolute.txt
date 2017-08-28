@@ -1,0 +1,5 @@
+D:\AzureDeploy\AzureDeploy\bin\AzureDeploy.dll
+D:\AzureDeploy\AzureDeploy\bin\AzureDeploy.pdb
+D:\AzureDeploy\AzureDeploy\obj\Debug\AzureDeploy.csprojResolveAssemblyReference.cache
+D:\AzureDeploy\AzureDeploy\obj\Debug\AzureDeploy.dll
+D:\AzureDeploy\AzureDeploy\obj\Debug\AzureDeploy.pdb
